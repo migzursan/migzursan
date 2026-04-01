@@ -1,7 +1,7 @@
 <h1 align="center">Miguel Zurbano Sánchez</h1>
 
 <p align="center">
-  <strong>Product & AI Leader · Builder ·  MBA  · LSSBB</strong>
+  <strong>Product & AI Leader · Builder ·  Architecture  · LSSBB</strong>
 </p>
 
 <p align="center">
