@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://migzursan.github.io">🌐 Portfolio</a> •
+  <a href="https://migzursan.github.io">🌐 Curriculum</a> •
   <a href="https://linkedin.com/in/miguelzurbanosanchez">💼 LinkedIn</a>
 </p>
 
