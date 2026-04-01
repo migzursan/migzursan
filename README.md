@@ -11,14 +11,6 @@
 
 ---
 
-### About
-
-8+ years shipping AI products at scale. Built conversational AI that deflected 75% of support tickets, fraud detection at 96% precision, and led 25+ people across product operations and automation. Now I build things with my hands too.
-
-I don't just write PRDs about AI. I build with it.
-
----
-
 ### What I'm Building
 
 🎙️ **[Sancho Voice Agent](https://github.com/migzursan/sancho-voice-agent)** — A privacy-first, locally-hosted voice assistant with modular integrations. Claude + Gemini, OAuth2, silence-detection recording. My daily driver.
