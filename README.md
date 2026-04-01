@@ -46,22 +46,3 @@ Edge Computing     Raspberry Pi 4 · Ollama · OpenClaw
 Product            Lean Six Sigma (Black Belt) · JIRA · Salesforce · Stripe
 Languages          Python · SQL · Bash · enough JS to be dangerous
 ```
-
----
-
-### Career Highlights
-
-| Metric | Result |
-|---|---|
-| **Ticket deflection** (OmniMind chatbot) | 75% |
-| **Fraud detection precision** | 96% |
-| **Checkout conversion uplift** | +6% |
-| **Team size managed** | 25+ across 4 departments |
-| **CRM unification** | Salesforce across 4 departments |
-| **Certifications** | MBA · Lean Six Sigma Black Belt |
-
----
-
-<p align="center">
-  <sub>Based between Copenhagen and Málaga · Open to Product, Program, and AI roles</sub>
-</p>
